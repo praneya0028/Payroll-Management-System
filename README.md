@@ -1,1 +1,2 @@
-# Payroll-Management-System
+# payroll-management-system
+Based on PHP and MySql
